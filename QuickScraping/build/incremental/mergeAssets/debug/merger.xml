@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\deleonf\Documents\GitHub\QuickScraping\QuickScraping\src\main\assets" />
+        <source path="/Users/fernandoMac/developer/java/workspace/QuickScraping/QuickScraping/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\deleonf\Documents\GitHub\QuickScraping\QuickScraping\src\debug\assets" />
+        <source path="/Users/fernandoMac/developer/java/workspace/QuickScraping/QuickScraping/src/debug/assets" />
     </dataSet>
 
 </merger>
